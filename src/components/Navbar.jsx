@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <div ref={navContainerRef} className='fixed inset-x-0 top-4 z-50 h-16 border-none transition-all duration-700 sm:instet-x-6'>
         <header>
-            <nav className='flex size-full items-center justify-between p-4'>
+            <nav className='flex size-full items-center justify-between p-4 bg-black text-white'>
                 <div className="flex items-center gap-7">
                     <img src="/assets/logo.png" alt="logo" className='w-10 rounded' />
                 </div>
