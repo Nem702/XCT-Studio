@@ -1,3 +1,8 @@
+GSAP - npm install @gsap/react gsap
+CSS clip path maker https://bennettfeely.com/clippy/
+npm install --save react-spinners
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
