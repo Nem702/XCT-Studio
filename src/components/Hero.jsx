@@ -37,7 +37,8 @@ const Hero = () => {
         </div>
       </div>
       <div className='absolute inset-0 flex items-end justify-end p-5 z-0'>
-        <h1 className='text-black text-7xl font-bold'>XCT Studio</h1>
+        {/* text shadow drop-shadow-[0px_0px_20px_rgba(0,255,145,1)] */}
+        <h1 className='text-black text-7xl font-bold drop-shadow-[0px_0px_20px_rgba(0,255,145,1)]'>XCT Studio</h1>
       </div>
     </div>
   );

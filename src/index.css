@@ -9,21 +9,21 @@
 }
 
 /* nav hover*/
-nav a::before{
+/* nav a::before{
     content: '';
     position: absolute;
     bottom: -3px;
     left: 0;
     width: 0;
     height: 2px;
-    background: linear-gradient(90deg, #0ff16d, #3c80e7); /* Tweak the color if needed */
+    background: linear-gradient(90deg, #0ff16d, #3c80e7);
     border-radius: 0;
     transition: all 0.2s ease-in-out;
-  }
-  nav a:hover::before {
+  } */
+  /* nav a:hover::before {
     width: 100%;
     border-radius: 50%;
-  }
+  } */
 
 
 /* loader */
